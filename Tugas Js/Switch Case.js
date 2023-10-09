@@ -10,6 +10,12 @@ switch (hari) {
   case "Rabu":
     console.log("Hari Rabu");
     break;
+  case "kamis":
+    console.log("Hari Kamis");
+    break;
+  case "Jumat":
+    console.log("Hari Jumat");
+    break;
   default:
     console.log("Hari tidak dikenali");
 }
